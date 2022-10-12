@@ -1,0 +1,137 @@
+/*HI*/
+
+/*Imported Fonts!*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+/*I like sans serif most of the time*/
+body {
+    font-family: sans-serif;
+}
+
+/*This is for the text aligment*/
+.center {
+    text-align: center;
+}
+
+/*This below is for the image of the potato*/
+#potato-image {
+    max-width: 75%;
+    max-height: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1.5%;
+}
+
+/*This is for the div the story is in*/
+#story-div {
+    font-family: 'Cabin', sans-serif;
+    text-align: left;
+}
+
+/*This here is for the div of quotes, such as the part where I put in "Are potatoes even that good?"*/
+#quote-div {
+    font-family: 'Noto Sans', sans-serif;    
+    font-style: italic;
+    font-size: 20px;
+    background-image: radial-gradient(white, grey);
+    border-radius: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*This is for the banner at the top*/
+#title-line {
+    background-image: linear-gradient(to right, blue , aquamarine);
+    border-radius: 2px;
+    height: 5px;
+}
+
+/*Separating the divs*/
+#main-page {
+    float: left;
+    width: 70%;
+    margin: 10px;
+}
+
+#read-next {
+    overflow: hidden;
+}
+
+/*I import Ubuntu font here*/
+#title {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+}
+
+/*h1 only appears in the title and the title only*/
+h1 {
+    text-decoration: bold;
+}
+
+/*Just to make it look separated.*/
+#description {
+    color: grey;
+}
+
+/*Container for the navigation bar*/
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    height: 100px;
+}
+
+/*Container for read next stories*/
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+/*Starry logo!*/
+#starry-logo {
+    width: 125px;
+    flex-basis: 40%
+}
+
+/*This is for the nav bar*/
+#navigation-bar {
+    overflow: hidden;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+/*Stuff for read next things*/
+
+/*For the smaller image*/
+.small-image {
+    width: 50%;
+    border-radius: 5px;
+}
+
+/*For the text next to the image*/
+.container-text {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+/*For the links*/
+.read-next-link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:unread {
+    text-decoration: none;
+    color: black;
+}
