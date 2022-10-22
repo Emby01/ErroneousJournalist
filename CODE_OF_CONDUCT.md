@@ -56,6 +56,13 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+brian.a.chan.au@gmail.com.
+All complaints will be reviewed and investigated promptly and fairly.
+
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
