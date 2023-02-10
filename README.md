@@ -1,6 +1,4 @@
-# ErroneousJournalist
-
-## (previously Starr_y)
+# ErroneousJournalist (previously Starr_y)
 
 Some random website I created while trying to test my HTML + CSS skills.
 
@@ -31,3 +29,14 @@ irrelevant and also erroneous. Enjoy the bad UI design and useless pointless art
 or the footer that doesn't exist, the terrible logo made in Canva, the navbar taken from w3schools, and so on.
 
 Hey, at least there's no advertisements!
+
+# Credits
+Thank you to these great people, websites, YouTube videos and other sources for helping make this website real. If I missed any credits please notify me...
+
+- [30 seconds of code](https://www.30secondsofcode.org/css/s/hover-underline-animation) for the code snippet on how to make a cool text underline animation on hover (in index.html)
+- [Dani Krossing's "Create news on website with HTML" YouTube video](https://youtu.be/EYBJ_y4dvIU) for the code on how to make a small list of articles in the homepage of the website (can be found in index.html)
+- W3schools for helping create a [slideshow](https://www.w3schools.com/howto/howto_js_slideshow.asp) (index.html) and a [navbar](https://www.w3schools.com/css/css_navbar.asp) (found across the whole website)
+- outsideclick on Pixabay for providing the image of [potatoes](https://emby01.github.io/ErroneousJournalist/) found in PotatoesAreGreat.html and other pages
+- Any future people that help me work on this website!
+
+There's probably more people and sources that I have to credit but I only started tracking them a few months or maybe even a whole year after I started the development of this website. So if you weren't included and you believe you should be... sorry. please notify me.
