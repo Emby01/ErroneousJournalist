@@ -207,6 +207,16 @@ body {
   padding: 20px;
 }
 
+/*---------Stuff above News Articles Box---------*/
+h3 {
+  font-family: Ubuntu, sans-serif;
+}
+
+#title-line {
+  background-image: linear-gradient(to right, blue , aquamarine);
+  border-radius: 2px;
+  height: 5px;
+}
 
 /*---------News Articles Box----------*/
 .index-news {
