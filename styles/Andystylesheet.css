@@ -15,8 +15,8 @@ body {
     text-align: center;
 }
 
-/*This below is for the image of the potato*/
-#potato-image {
+/*This below is for the image on the top of the page*/
+#header-image {
     max-width: 75%;
     max-height: 75%;
     display: block;
