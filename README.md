@@ -39,4 +39,4 @@ Thank you to these great people, websites, YouTube videos and other sources for 
 - [outsideclick on Pixabay](https://pixabay.com/photos/potato-potato-backgroung-potatoes-5318958/) for providing the image of [potatoes](https://emby01.github.io/ErroneousJournalist/) found in PotatoesAreGreat.html and other pages
 - Any future people that help me work on this website!
 
-There's probably more people and sources that I have to credit but I only started tracking them a few months or maybe even a whole year after I started the development of this website. So if you weren't included and you believe you should be... sorry. please notify me.
+There's probably more people and sources that I have to credit but I only started tracking them a few months or maybe even a whole year after I started the development of this website. So if you weren't included and you believe you should be... sorry.
